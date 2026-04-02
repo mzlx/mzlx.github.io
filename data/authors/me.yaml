@@ -2,14 +2,14 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "https://mzlx.github.io/courses/"
+  display: "XXXX"
   given: "aa"
   family: "bb"
   alternate: ""
   pronunciation: ""
   pronouns: "yyy"
 postnominals:
-  - "PhD"
+  - "ccc"
   - "xxx"
 status:
   icon: "☕️"
