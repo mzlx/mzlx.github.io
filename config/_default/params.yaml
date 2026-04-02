@@ -1,7 +1,7 @@
 hugoblox:
   schema: "2.0"
   identity:
-    name: https://mzlx.github.io/courses/
+    name: mzlx
     type: person
     tagline: ""
     description: ""
